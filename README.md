@@ -6,7 +6,7 @@ A simple and responsive Pomodoro Timer application built with HTML5, CSS3, and J
 
 ## Live Demo
 Access the live app:
-https://daminokun.github.io/pomodoro-timer/
+https://daminokun.github.io/Pomodoro-Timer/
 
 ---
 
